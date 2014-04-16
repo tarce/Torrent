@@ -138,8 +138,8 @@ public class PeerProcess
 					if(val==1)
 					{
 						
-						//Host.allfiles= new ByteReadAndWrite(fileName, pieceSize).readAndFragment();
-						Host.allfiles= new ByteReadAndWrite(fileName, fileSize/100).readAndFragment();
+						Host.allfiles= new ByteReadAndWrite(fileName, pieceSize).readAndFragment();
+						//Host.allfiles= new ByteReadAndWrite(fileName, fileSize/100).readAndFragment();
 						
 					}
 					

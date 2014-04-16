@@ -80,7 +80,7 @@ public class Host
 		Host.lookup = new Hashtable<Integer, HostEntry>();
 		Host.numPieces = fileSize / pieceSize;
 		if ((fileSize % pieceSize) != 0) {numPieces++;}
-		Host.numPieces = 100;
+		//Host.numPieces = 100;
 		Host.numPrefNeighbors = numPrefNeighbors;
 		Host.unchokeInterval = unchokeInterval;
 		Host.optimisticUnchokeInterval = optimisticUnchokeInterval;
