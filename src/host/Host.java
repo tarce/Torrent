@@ -728,7 +728,7 @@ public class Host
 	        {
 	        	myFiles.add(Host.logPath+i);
 	        }
-	       new ByteReadAndWrite("", 10).mergeParts(myFiles, Host.logPath + Host.filename);
+	        new ByteReadAndWrite("", 10).mergeParts(myFiles, Host.logPath + Host.filename);
 	        System.exit(0);
 	        
 		} /* end if */
