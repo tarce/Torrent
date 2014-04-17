@@ -37,8 +37,6 @@ public class PeerProcess
 	private  int fileSize;
 	private  int pieceSize;
 	
-	
-	
 	/******************* Class Methods *******************/
 	
 	/**

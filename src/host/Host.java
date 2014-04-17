@@ -42,6 +42,8 @@ public class Host
 	protected static int optimisticUnchokeInterval;	
 	protected static ArrayList <PeerRankEntry> AllRank;
 	protected static ArrayList <PeerRankEntry> Choked;
+	protected static String logPath;
+	protected static String filename;
 
 	protected static ArrayList <Integer>  UnchokedTopK;
 	protected static ArrayList <Integer>	ChokedInterested;
@@ -76,6 +78,8 @@ public class Host
 	 */
 	public static synchronized void setup (String filename,int HostID, int numPrefNeighbors, int unchokeInterval, int optimisticUnchokeInterval, int fileSize, int pieceSize, String logPath)
 	{
+		Host.logPath = logPath;
+		Host.filename = filename;
 		System.out.println(Thread.currentThread().getId() + " enter setup");
 		Host.lookup = new Hashtable<Integer, HostEntry>();
 		Host.numPieces = fileSize / pieceSize;
@@ -718,8 +722,13 @@ public class Host
 	  
 	        	entry.getValue().socket.terminate();
 	        } /* end while loop */
-	        
-	       
+	      
+	        ArrayList< String> myFiles= new ArrayList<String>();
+	        for(int i=0;i<Host.numPieces;i++)
+	        {
+	        	myFiles.add(Host.logPath+i);
+	        }
+	       new ByteReadAndWrite("", 10).mergeParts(myFiles, Host.logPath + Host.filename);
 	        System.exit(0);
 	        
 		} /* end if */

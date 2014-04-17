@@ -1,0 +1,311 @@
+2014-04-17 19:05:15.211: Peer 1001 is connected from Peer 1002. 
+2014-04-17 19:05:20.151: Peer 1001 is unchoked by 1002. 
+2014-04-17 19:05:20.482: Peer 1001 has downloaded the piece 83 from 1002. 
+Now the number of pieces it has is 1.
+2014-04-17 19:05:20.53: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:20.585: Peer 1001 has downloaded the piece 52 from 1002. 
+Now the number of pieces it has is 2.
+2014-04-17 19:05:20.634: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:20.689: Peer 1001 has downloaded the piece 63 from 1002. 
+Now the number of pieces it has is 3.
+2014-04-17 19:05:20.738: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:20.796: Peer 1001 has downloaded the piece 38 from 1002. 
+Now the number of pieces it has is 4.
+2014-04-17 19:05:20.842: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:20.9: Peer 1001 has downloaded the piece 96 from 1002. 
+Now the number of pieces it has is 5.
+2014-04-17 19:05:20.946: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:21.006: Peer 1001 has downloaded the piece 12 from 1002. 
+Now the number of pieces it has is 6.
+2014-04-17 19:05:21.054: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:21.115: Peer 1001 has downloaded the piece 56 from 1002. 
+Now the number of pieces it has is 7.
+2014-04-17 19:05:21.162: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:21.222: Peer 1001 has downloaded the piece 97 from 1002. 
+Now the number of pieces it has is 8.
+2014-04-17 19:05:21.27: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:21.331: Peer 1001 has downloaded the piece 54 from 1002. 
+Now the number of pieces it has is 9.
+2014-04-17 19:05:21.378: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:21.438: Peer 1001 has downloaded the piece 40 from 1002. 
+Now the number of pieces it has is 10.
+2014-04-17 19:05:21.486: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:21.546: Peer 1001 has downloaded the piece 26 from 1002. 
+Now the number of pieces it has is 11.
+2014-04-17 19:05:21.594: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:21.654: Peer 1001 has downloaded the piece 77 from 1002. 
+Now the number of pieces it has is 12.
+2014-04-17 19:05:21.702: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:21.762: Peer 1001 has downloaded the piece 58 from 1002. 
+Now the number of pieces it has is 13.
+2014-04-17 19:05:21.81: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:21.87: Peer 1001 has downloaded the piece 28 from 1002. 
+Now the number of pieces it has is 14.
+2014-04-17 19:05:21.918: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:21.973: Peer 1001 has downloaded the piece 102 from 1002. 
+Now the number of pieces it has is 15.
+2014-04-17 19:05:22.022: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:22.085: Peer 1001 has downloaded the piece 47 from 1002. 
+Now the number of pieces it has is 16.
+2014-04-17 19:05:22.134: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:22.195: Peer 1001 has downloaded the piece 35 from 1002. 
+Now the number of pieces it has is 17.
+2014-04-17 19:05:22.242: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:22.303: Peer 1001 has downloaded the piece 42 from 1002. 
+Now the number of pieces it has is 18.
+2014-04-17 19:05:22.35: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:22.411: Peer 1001 has downloaded the piece 10 from 1002. 
+Now the number of pieces it has is 19.
+2014-04-17 19:05:22.458: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:22.518: Peer 1001 has downloaded the piece 43 from 1002. 
+Now the number of pieces it has is 20.
+2014-04-17 19:05:22.566: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:22.627: Peer 1001 has downloaded the piece 69 from 1002. 
+Now the number of pieces it has is 21.
+2014-04-17 19:05:22.674: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:22.734: Peer 1001 has downloaded the piece 100 from 1002. 
+Now the number of pieces it has is 22.
+2014-04-17 19:05:22.782: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:22.844: Peer 1001 has downloaded the piece 31 from 1002. 
+Now the number of pieces it has is 23.
+2014-04-17 19:05:22.894: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:22.952: Peer 1001 has downloaded the piece 88 from 1002. 
+Now the number of pieces it has is 24.
+2014-04-17 19:05:23.002: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:23.06: Peer 1001 has downloaded the piece 2 from 1002. 
+Now the number of pieces it has is 25.
+2014-04-17 19:05:23.106: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:23.167: Peer 1001 has downloaded the piece 80 from 1002. 
+Now the number of pieces it has is 26.
+2014-04-17 19:05:23.214: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:23.269: Peer 1001 has downloaded the piece 1 from 1002. 
+Now the number of pieces it has is 27.
+2014-04-17 19:05:23.317: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:23.375: Peer 1001 has downloaded the piece 3 from 1002. 
+Now the number of pieces it has is 28.
+2014-04-17 19:05:23.422: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:23.481: Peer 1001 has downloaded the piece 101 from 1002. 
+Now the number of pieces it has is 29.
+2014-04-17 19:05:23.53: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:23.588: Peer 1001 has downloaded the piece 18 from 1002. 
+Now the number of pieces it has is 30.
+2014-04-17 19:05:23.638: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:23.696: Peer 1001 has downloaded the piece 86 from 1002. 
+Now the number of pieces it has is 31.
+2014-04-17 19:05:23.746: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:23.805: Peer 1001 has downloaded the piece 93 from 1002. 
+Now the number of pieces it has is 32.
+2014-04-17 19:05:23.854: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:23.912: Peer 1001 has downloaded the piece 39 from 1002. 
+Now the number of pieces it has is 33.
+2014-04-17 19:05:23.958: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:24.018: Peer 1001 has downloaded the piece 79 from 1002. 
+Now the number of pieces it has is 34.
+2014-04-17 19:05:24.066: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:24.126: Peer 1001 has downloaded the piece 20 from 1002. 
+Now the number of pieces it has is 35.
+2014-04-17 19:05:24.174: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:24.235: Peer 1001 has downloaded the piece 53 from 1002. 
+Now the number of pieces it has is 36.
+2014-04-17 19:05:24.282: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:24.343: Peer 1001 has downloaded the piece 71 from 1002. 
+Now the number of pieces it has is 37.
+2014-04-17 19:05:24.39: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:24.451: Peer 1001 has downloaded the piece 55 from 1002. 
+Now the number of pieces it has is 38.
+2014-04-17 19:05:24.498: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:24.559: Peer 1001 has downloaded the piece 50 from 1002. 
+Now the number of pieces it has is 39.
+2014-04-17 19:05:24.606: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:24.666: Peer 1001 has downloaded the piece 92 from 1002. 
+Now the number of pieces it has is 40.
+2014-04-17 19:05:24.714: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:24.775: Peer 1001 has downloaded the piece 23 from 1002. 
+Now the number of pieces it has is 41.
+2014-04-17 19:05:24.822: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:24.883: Peer 1001 has downloaded the piece 32 from 1002. 
+Now the number of pieces it has is 42.
+2014-04-17 19:05:24.931: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:24.991: Peer 1001 has downloaded the piece 19 from 1002. 
+Now the number of pieces it has is 43.
+2014-04-17 19:05:25.038: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:25.099: Peer 1001 has downloaded the piece 87 from 1002. 
+Now the number of pieces it has is 44.
+2014-04-17 19:05:25.146: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:25.208: Peer 1001 has downloaded the piece 34 from 1002. 
+Now the number of pieces it has is 45.
+2014-04-17 19:05:25.258: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:25.319: Peer 1001 has downloaded the piece 73 from 1002. 
+Now the number of pieces it has is 46.
+2014-04-17 19:05:25.366: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:25.425: Peer 1001 has downloaded the piece 76 from 1002. 
+Now the number of pieces it has is 47.
+2014-04-17 19:05:25.474: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:25.532: Peer 1001 has downloaded the piece 67 from 1002. 
+Now the number of pieces it has is 48.
+2014-04-17 19:05:25.582: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:25.64: Peer 1001 has downloaded the piece 29 from 1002. 
+Now the number of pieces it has is 49.
+2014-04-17 19:05:25.686: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:25.746: Peer 1001 has downloaded the piece 25 from 1002. 
+Now the number of pieces it has is 50.
+2014-04-17 19:05:25.793: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:25.854: Peer 1001 has downloaded the piece 62 from 1002. 
+Now the number of pieces it has is 51.
+2014-04-17 19:05:25.901: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:25.962: Peer 1001 has downloaded the piece 89 from 1002. 
+Now the number of pieces it has is 52.
+2014-04-17 19:05:26.009: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:26.07: Peer 1001 has downloaded the piece 68 from 1002. 
+Now the number of pieces it has is 53.
+2014-04-17 19:05:26.117: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:26.178: Peer 1001 has downloaded the piece 98 from 1002. 
+Now the number of pieces it has is 54.
+2014-04-17 19:05:26.225: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:26.286: Peer 1001 has downloaded the piece 85 from 1002. 
+Now the number of pieces it has is 55.
+2014-04-17 19:05:26.333: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:26.394: Peer 1001 has downloaded the piece 27 from 1002. 
+Now the number of pieces it has is 56.
+2014-04-17 19:05:26.441: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:26.502: Peer 1001 has downloaded the piece 21 from 1002. 
+Now the number of pieces it has is 57.
+2014-04-17 19:05:26.549: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:26.61: Peer 1001 has downloaded the piece 15 from 1002. 
+Now the number of pieces it has is 58.
+2014-04-17 19:05:26.657: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:26.718: Peer 1001 has downloaded the piece 24 from 1002. 
+Now the number of pieces it has is 59.
+2014-04-17 19:05:26.765: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:26.826: Peer 1001 has downloaded the piece 14 from 1002. 
+Now the number of pieces it has is 60.
+2014-04-17 19:05:26.874: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:26.935: Peer 1001 has downloaded the piece 60 from 1002. 
+Now the number of pieces it has is 61.
+2014-04-17 19:05:26.981: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:27.042: Peer 1001 has downloaded the piece 78 from 1002. 
+Now the number of pieces it has is 62.
+2014-04-17 19:05:27.089: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:27.149: Peer 1001 has downloaded the piece 13 from 1002. 
+Now the number of pieces it has is 63.
+2014-04-17 19:05:27.197: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:27.258: Peer 1001 has downloaded the piece 9 from 1002. 
+Now the number of pieces it has is 64.
+2014-04-17 19:05:27.305: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:27.366: Peer 1001 has downloaded the piece 90 from 1002. 
+Now the number of pieces it has is 65.
+2014-04-17 19:05:27.413: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:27.473: Peer 1001 has downloaded the piece 94 from 1002. 
+Now the number of pieces it has is 66.
+2014-04-17 19:05:27.521: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:27.581: Peer 1001 has downloaded the piece 8 from 1002. 
+Now the number of pieces it has is 67.
+2014-04-17 19:05:27.629: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:27.69: Peer 1001 has downloaded the piece 41 from 1002. 
+Now the number of pieces it has is 68.
+2014-04-17 19:05:27.737: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:27.797: Peer 1001 has downloaded the piece 45 from 1002. 
+Now the number of pieces it has is 69.
+2014-04-17 19:05:27.845: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:27.905: Peer 1001 has downloaded the piece 75 from 1002. 
+Now the number of pieces it has is 70.
+2014-04-17 19:05:27.953: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:28.014: Peer 1001 has downloaded the piece 37 from 1002. 
+Now the number of pieces it has is 71.
+2014-04-17 19:05:28.061: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:28.122: Peer 1001 has downloaded the piece 64 from 1002. 
+Now the number of pieces it has is 72.
+2014-04-17 19:05:28.169: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:28.229: Peer 1001 has downloaded the piece 66 from 1002. 
+Now the number of pieces it has is 73.
+2014-04-17 19:05:28.277: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:28.338: Peer 1001 has downloaded the piece 16 from 1002. 
+Now the number of pieces it has is 74.
+2014-04-17 19:05:28.385: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:28.45: Peer 1001 has downloaded the piece 82 from 1002. 
+Now the number of pieces it has is 75.
+2014-04-17 19:05:28.497: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:28.555: Peer 1001 has downloaded the piece 11 from 1002. 
+Now the number of pieces it has is 76.
+2014-04-17 19:05:28.601: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:28.662: Peer 1001 has downloaded the piece 6 from 1002. 
+Now the number of pieces it has is 77.
+2014-04-17 19:05:28.709: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:28.77: Peer 1001 has downloaded the piece 30 from 1002. 
+Now the number of pieces it has is 78.
+2014-04-17 19:05:28.817: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:28.878: Peer 1001 has downloaded the piece 49 from 1002. 
+Now the number of pieces it has is 79.
+2014-04-17 19:05:28.925: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:28.987: Peer 1001 has downloaded the piece 48 from 1002. 
+Now the number of pieces it has is 80.
+2014-04-17 19:05:29.033: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:29.094: Peer 1001 has downloaded the piece 81 from 1002. 
+Now the number of pieces it has is 81.
+2014-04-17 19:05:29.141: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:29.201: Peer 1001 has downloaded the piece 7 from 1002. 
+Now the number of pieces it has is 82.
+2014-04-17 19:05:29.249: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:29.309: Peer 1001 has downloaded the piece 72 from 1002. 
+Now the number of pieces it has is 83.
+2014-04-17 19:05:29.356: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:29.417: Peer 1001 has downloaded the piece 65 from 1002. 
+Now the number of pieces it has is 84.
+2014-04-17 19:05:29.465: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:29.525: Peer 1001 has downloaded the piece 99 from 1002. 
+Now the number of pieces it has is 85.
+2014-04-17 19:05:29.573: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:29.633: Peer 1001 has downloaded the piece 17 from 1002. 
+Now the number of pieces it has is 86.
+2014-04-17 19:05:29.68: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:29.742: Peer 1001 has downloaded the piece 74 from 1002. 
+Now the number of pieces it has is 87.
+2014-04-17 19:05:29.789: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:29.85: Peer 1001 has downloaded the piece 95 from 1002. 
+Now the number of pieces it has is 88.
+2014-04-17 19:05:29.896: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:29.957: Peer 1001 has downloaded the piece 33 from 1002. 
+Now the number of pieces it has is 89.
+2014-04-17 19:05:30.004: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:30.065: Peer 1001 has downloaded the piece 91 from 1002. 
+Now the number of pieces it has is 90.
+2014-04-17 19:05:30.113: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:30.173: Peer 1001 has downloaded the piece 22 from 1002. 
+Now the number of pieces it has is 91.
+2014-04-17 19:05:30.221: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:30.276: Peer 1001 has downloaded the piece 46 from 1002. 
+Now the number of pieces it has is 92.
+2014-04-17 19:05:30.32: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:30.378: Peer 1001 has downloaded the piece 4 from 1002. 
+Now the number of pieces it has is 93.
+2014-04-17 19:05:30.424: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:30.485: Peer 1001 has downloaded the piece 84 from 1002. 
+Now the number of pieces it has is 94.
+2014-04-17 19:05:30.532: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:30.588: Peer 1001 has downloaded the piece 5 from 1002. 
+Now the number of pieces it has is 95.
+2014-04-17 19:05:30.632: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:30.69: Peer 1001 has downloaded the piece 0 from 1002. 
+Now the number of pieces it has is 96.
+2014-04-17 19:05:30.736: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:30.798: Peer 1001 has downloaded the piece 59 from 1002. 
+Now the number of pieces it has is 97.
+2014-04-17 19:05:30.844: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:30.905: Peer 1001 has downloaded the piece 44 from 1002. 
+Now the number of pieces it has is 98.
+2014-04-17 19:05:30.952: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:31.013: Peer 1001 has downloaded the piece 61 from 1002. 
+Now the number of pieces it has is 99.
+2014-04-17 19:05:31.06: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:31.122: Peer 1001 has downloaded the piece 51 from 1002. 
+Now the number of pieces it has is 100.
+2014-04-17 19:05:31.168: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:31.228: Peer 1001 has downloaded the piece 36 from 1002. 
+Now the number of pieces it has is 101.
+2014-04-17 19:05:31.272: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:31.336: Peer 1001 has downloaded the piece 70 from 1002. 
+Now the number of pieces it has is 102.
+2014-04-17 19:05:31.38: Peer 1001 received a 'not interested' message from 1002. 
+2014-04-17 19:05:31.436: Peer 1001 has downloaded the piece 57 from 1002. 
+Now the number of pieces it has is 103.
+2014-04-17 19:05:31.437: Peer 1001 has downloaded the complete file.

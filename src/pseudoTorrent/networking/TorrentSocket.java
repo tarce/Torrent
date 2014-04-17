@@ -84,6 +84,7 @@ public class TorrentSocket extends ProtocolSocket
 			Message bitfield = (Message) this.definedGetMessage();
 			Host.add(this.peerID, this);
 			
+			System.out.println("TorrentSocket.initialProcess: message received is " + bitfield.getProtocolID());
 			if(bitfield.type.equals(Message.Type.BITFIELD))
 			{
 				/* Process the bitfield message */
